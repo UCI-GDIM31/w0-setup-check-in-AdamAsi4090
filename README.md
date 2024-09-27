@@ -5,9 +5,7 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 ## Introduction
 
-1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
-
-Hi there, my name's Adam (pronouns he/him). I've been a fan of videogames since I was a kid, with a lot of my childhood spent playing games like Mario Kart, Smash Bros. and Plants vs. Zombies. At school whenever I was bored, I'd often draw ideas I had for characters in video game ideas I'd have, eventually evolving into an interest in becoming a game designer. I've had some experience with game design, as in high school I made a horror game in Blender as part of a class project, but I'm hoping this class will give me the opportunity to further expand my skills when it comes to the subject.
+1. Hi there, my name's Adam (pronouns he/him). I've been a fan of videogames since I was a kid, with a lot of my childhood spent playing games like Mario Kart, Smash Bros. and Plants vs. Zombies. At school whenever I was bored, I'd often draw ideas I had for characters in video game ideas I'd have, eventually evolving into an interest in becoming a game designer. I've had some experience with game design, as in high school I made a horror game in Blender as part of a class project, but I'm hoping this class will give me the opportunity to further expand my skills when it comes to the subject.
 
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
@@ -17,13 +15,9 @@ Hi there, my name's Adam (pronouns he/him). I've been a fan of videogames since 
     - [ ] Undecided
     - [ ] Other (please specify)
 
-3. What are you hoping to get out of this class?
+3. I'm hoping that this class will give me the opportunity to get a better grasp of understanding the factors that go into coding a video game. As a game design major, I want to grasp what kinds of things the people that I'll be working with will be using to make the ideas I have a reality.
 
-I'm hoping that this class will give me the opportunity to get a better grasp of understanding the factors that go into coding a video game. As a game design major, I want to grasp what kinds of things the people that I'll be working with will be using to make the ideas I have a reality.
-
-4. What, if anything, are you nervous about for this class?
-
-Not much right now. I'm pretty excited actually.
+4. I'm not nervous about much right now. I'm pretty excited actually.
 
 ## Prior Experience
 
@@ -31,17 +25,11 @@ The next questions ask about what (if any) prior experience you have. This class
 
 ### Development
 
-1. Programming (any languages/ frameworks)
+1. In community college I learned how to use both Java and a bit of Python. I have no experience in any other languages.
 
-In community college I learned how to use both Java and a bit of Python. I have no experience in any other languages.
+2. I created a game in Blender several years ago, and I tried to get into GameMaker during summer.
 
-2. Game development (any engine)
-
-I created a game in Blender several years ago.
-
-3. Unity
-
-N/A
+3. N/A
 
 ### Programming & Game Development Concepts
 
@@ -52,15 +40,15 @@ For the next questions, a programming or game development concept is presented:
 
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
-1. Game design document
+1. N/A
 
-2. Scope management
+2. The management of a game's scope to make it possible with the parameters given.
 
-3. Iteration
+3. I am familiar with the term but don't have an exact definition.
 
-4. Object-Oriented programming
+4. A programming style that utilizes objects (int, double, String, etc.)
 
-5. Model-View-Controller architecture
+5. A program architecture where content inputted in the view is put into the controller and interpreted so it can be used in the model.
 
 ## Complete!
 
