@@ -23,6 +23,8 @@ I'm hoping that this class will give me the opportunity to get a better grasp of
 
 4. What, if anything, are you nervous about for this class?
 
+Not much right now. I'm pretty excited actually.
+
 ## Prior Experience
 
 The next questions ask about what (if any) prior experience you have. This class assumes students have no prior knowledge, so don’t worry if you have 0 experience programming or with game development! Just write 0 or N/A under the headers. These questions are JUST for us to get an overall picture of the class's experience level so that we can make sure to be meeting you all where you are.
@@ -31,9 +33,15 @@ The next questions ask about what (if any) prior experience you have. This class
 
 1. Programming (any languages/ frameworks)
 
+In community college I learned how to use both Java and a bit of Python. I have no experience in any other languages.
+
 2. Game development (any engine)
 
+I created a game in Blender several years ago.
+
 3. Unity
+
+N/A
 
 ### Programming & Game Development Concepts
 
