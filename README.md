@@ -7,17 +7,20 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
 
-Adam
+Hi there, my name's Adam (pronouns he/him). I've been a fan of videogames since I was a kid, with a lot of my childhood spent playing games like Mario Kart, Smash Bros. and Plants vs. Zombies. At school whenever I was bored, I'd often draw ideas I had for characters in video game ideas I'd have, eventually evolving into an interest in becoming a game designer. I've had some experience with game design, as in high school I made a horror game in Blender as part of a class project, but I'm hoping this class will give me the opportunity to further expand my skills when it comes to the subject.
 
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
-    - [ ] Game Design & Interactive Media
+    - [X] Game Design & Interactive Media
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
     - [ ] Undecided
     - [ ] Other (please specify)
 
 3. What are you hoping to get out of this class?
+
+I'm hoping that this class will give me the opportunity to learn about the 
+
 4. What, if anything, are you nervous about for this class?
 
 ## Prior Experience
