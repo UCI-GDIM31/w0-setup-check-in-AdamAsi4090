@@ -19,7 +19,7 @@ Hi there, my name's Adam (pronouns he/him). I've been a fan of videogames since 
 
 3. What are you hoping to get out of this class?
 
-I'm hoping that this class will give me the opportunity to learn about the 
+I'm hoping that this class will give me the opportunity to get a better grasp of understanding the factors that go into coding a video game. As a game design major, I want to grasp what kinds of things the people that I'll be working with will be using to make the ideas I have a reality.
 
 4. What, if anything, are you nervous about for this class?
 
